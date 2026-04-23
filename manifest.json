@@ -1,18 +1,20 @@
 {
-  "name": "RJN Online Store",
-  "short_name": "RJN Store",
-  "description": "RJN Online - Grocery & Daily Needs at Best Price",
-  "start_url": "https://rjnonlinenow.blogspot.com/",
+  "name": "RJN Online",
+  "short_name": "RJN Online",
+  "start_url": "/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#ffffff",
-  "theme_color": "#E91E63",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy0NAdS_fHZbgf1EiUbCKHLxAWtXL1pBEF1xAyBisIBh0t-bJX_dj5Qua-WH2bm5HBZZYomQJmye1mb-OCSJzaMLZiGRUFaNJrsYVcX95HasPqnMFHUNWV5wSllPEDPLokBfcAYbOQ4E7U7I6zQGo5hsXsQxy6cOdJ1qmjYoRAEDxYkprMX45CceGMsU6V/s1000/RJN%20Logo%202.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy0NAdS_fHZbgf1EiUbCKHLxAWtXL1pBEF1xAyBisIBh0t-bJX_dj5Qua-WH2bm5HBZZYomQJmye1mb-OCSJzaMLZiGRUFaNJrsYVcX95HasPqnMFHUNWV5wSllPEDPLokBfcAYbOQ4E7U7I6zQGo5hsXsQxy6cOdJ1qmjYoRAEDxYkprMX45CceGMsU6V/s1000/RJN%20Logo%202.jpg",
       "sizes": "512x512",
-      "type": "image/jpeg",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
